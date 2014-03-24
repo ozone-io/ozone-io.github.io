@@ -1,0 +1,22 @@
+html, body {
+	background-color: black;
+	background-image: url(../../content/img/background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+	font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.centerding {
+	margin-top: 5em;
+}
+
+h1 {
+	color: white;
+}
+
+p {
+	font-size: 120%;
+	color: #777777;
+}
